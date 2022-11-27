@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Group Software Engineering Manager (Squad Groups) at Nokia for the development of Nokia OS, a carrier grade Linux Operating System for 3G,4G and 5G Network Platforms as well as the DevOps CI/CD organization for Edge Clould Products.
+
+📫 How to reach me: https://www.kirans.in
+💬 Ask me about: Software Engineering Management, Software Technology Adoption in MNCs, R&D Efficiency Initiatives
+⚡ Fun fact: My first programming language was BASIC when I started learning & coding by myself in the fifth grade. And then my first hobby software project was a class marksheet consolidation program that wrote to tape drives when the school messed up the leaderboard tally!
