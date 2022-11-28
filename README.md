@@ -19,4 +19,4 @@ I am a Group Software Engineering Manager (Squad Groups) at Nokia for the develo
 
 📫 **How to reach me**: https://www.kirans.in <br>
 💬 **Ask me about**: Software Engineering Management, Software Technology Adoption in MNCs, R&D Efficiency Initiatives <br>
-⚡ **Fun fact**: My first programming language was BASIC when I started learning & coding by myself in the fifth grade. And then my first hobby software project was a class marksheet consolidation program that wrote to tape drives when the school messed up the leaderboard tally!
+⚡ **Fun fact**: My first programming language was BASIC when I started learning & coding by myself in the fifth grade. And then my first hobby software project was a class marksheet consolidation program that wrote to tape drives as a solution when the school messed up the manual tabulation of the leaderboard tally!
